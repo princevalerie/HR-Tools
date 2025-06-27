@@ -75,6 +75,7 @@ class CVImprover:
         - In the experience section, ensure each job description includes specific, measurable achievements or responsibilities.
         - If no quantifiable information is provided, revise descriptions to add quantitative aspects, using placeholders in brackets where necessary (e.g., [increased efficiency by 15%]).
         - Start bullet points with action verbs like "Developed," "Implemented," "Managed," "Optimized," and "Achieved."
+        - If possible use the XYZ Quantitative method x is what i accomplished , Y How i measured it , z how i did it
 
         #### 3. **Error and Typo Correction**
         - Carefully proofread for any typographical errors, grammar issues, or inconsistent formatting.
@@ -134,7 +135,7 @@ class CVImprover:
         1. **Job-Specific Tailored CV**: A version of the CV tailored specifically for this job description, highlighting relevant skills and experiences that match the job requirements.
         2. **Key Changes Made**: A list of key changes made to align the CV with the job description.
         3. **Job-Specific Suggestions**: Additional suggestions for making the CV stand out for this particular role.
-        4. **Keyword Analysis**: Important keywords from the job description that should be emphasized in the CV.
+        4. **Keyword Analysis**: Matching keywords from the job description that possible to be emphasized in the CV.
 
         Format your response clearly with sections for each of the above points.
         """
@@ -245,6 +246,8 @@ class CoverLetterGenerator:
         5. Remove any text that appears in square brackets [ ] completely from the final output.
         6. Always structure the paragrapgh and text allignment like professional cover letter
         7. Do not include any address and instruction to fill the address
+        8. Do not sound too desperate by using verb like "please"
+        9. Always at the end of the paragraph, provide a sentence to let HR know that I am open to discussing how my experience aligns with the job.
 
     Do not include any personal contact details or headers in final output.
     """
