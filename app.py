@@ -75,7 +75,7 @@ class CVImprover:
         - In the experience section, ensure each job description includes specific, measurable achievements or responsibilities.
         - If no quantifiable information is provided, revise descriptions to add quantitative aspects, using placeholders in brackets where necessary (e.g., [increased efficiency by 15%]).
         - Start bullet points with action verbs like "Developed," "Implemented," "Managed," "Optimized," and "Achieved."
-        - Always use the [XYZ] Quantitative method [X] is what i accomplished , [Y] How i measured it , [Z] how i did it
+        - If possible using [XYZ] Quantitative method -->[X] is what accomplished , [Y] How to measured it , [Z] how i did it
 
         #### 3. **Error and Typo Correction**
         - Carefully proofread for any typographical errors, grammar issues, or inconsistent formatting.
